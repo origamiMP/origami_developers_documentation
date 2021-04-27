@@ -1,2 +1,14 @@
-Origami Marketplace Developers is dedicated to integrators wishing to use our marketplace solution in one or more of their projects. This platform offers API documentation and plugins to facilitate the implementation of a marketplace project. Be informed of all the developments and trends around Origami Marketplace thanks to the release notes.y
+### Create an export
 
+- [With Back Office]
+- [With API]
+
+### Export configuration
+
+- [With Back Office]
+- [With API]
+
+### Download export
+
+- [With Back Office]
+- [With API]
