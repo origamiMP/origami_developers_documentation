@@ -1,6 +1,6 @@
-### Origami Marketplace envrionment
+### Origami Marketplace environment
 
-- [Architeture presentation (BO / API]
+- [Architeture presentation (BO / API)]
 
 ### Setup Origami Marketplace connection from scratch
 
@@ -10,5 +10,6 @@
 ### Setup Origami Marketplace from Prestashop
 
 - [Information required to connect]
+- [Prestashop installation -> link to prestashop developer website]
 - [Module installation]
 - [Origami x Prestashop Module tutorial]
