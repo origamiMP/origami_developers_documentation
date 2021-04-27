@@ -1,2 +1,8 @@
-Origami Marketplace Developers is dedicated to integrators wishing to use our marketplace solution in one or more of their projects. This platform offers API documentation and plugins to facilitate the implementation of a marketplace project. Be informed of all the developments and trends around Origami Marketplace thanks to the release notes.y
+### Configure feed types
 
+[Install and configure feed modules]
+
+### Create and configure your first feed
+
+- [With Back-Office]
+- [With API]
