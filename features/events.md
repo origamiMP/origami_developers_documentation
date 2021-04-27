@@ -1,2 +1,12 @@
-Origami Marketplace Developers is dedicated to integrators wishing to use our marketplace solution in one or more of their projects. This platform offers API documentation and plugins to facilitate the implementation of a marketplace project. Be informed of all the developments and trends around Origami Marketplace thanks to the release notes.y
+### What is an event
 
+[Presentation]
+
+### What is possible and wat isn't
+
+[Nothing better]
+
+### Handle events in Origami
+
+- [With Back office]
+- [With API]
