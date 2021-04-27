@@ -1,6 +1,6 @@
 ### Origami Marketplace environment
 
-- [Architeture presentation (BO / API)]
+- [Architeture presentation (BO / API / FO)]
 
 ### Setup Origami Marketplace connection from scratch
 
