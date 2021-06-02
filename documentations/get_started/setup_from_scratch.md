@@ -22,11 +22,11 @@
 
 3. Create a user
 
-<img src="https://storage.gra.cloud.ovh.net/v1/AUTH_bcd845e0b5634d6c8b2535ea00e54c53/ORIGAMIDEVELOPER/create_user" alt="create_user" style="text-align: center"/>
+<img src="https://storage.gra.cloud.ovh.net/v1/AUTH_bcd845e0b5634d6c8b2535ea00e54c53/ORIGAMIDEVELOPER/create_user.png" alt="create_user" style="text-align: center"/>
 
 4. Add operator role to this user
 
-<img src="https://storage.gra.cloud.ovh.net/v1/AUTH_bcd845e0b5634d6c8b2535ea00e54c53/ORIGAMIDEVELOPER/user_add_operator_role" alt="user_add_operator_role" style="text-align: center"/>
+<img src="https://storage.gra.cloud.ovh.net/v1/AUTH_bcd845e0b5634d6c8b2535ea00e54c53/ORIGAMIDEVELOPER/user_add_operator_role.png" alt="user_add_operator_role" style="text-align: center"/>
 
 5. Set the user password
 
