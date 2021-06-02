@@ -44,7 +44,10 @@ If you're making the request as operator, you must set '1' for this parameters.
 <a href="https://storage.gra.cloud.ovh.net/v1/AUTH_bcd845e0b5634d6c8b2535ea00e54c53/ORIGAMIDEVELOPER/postman_first_request.png" target="_blank"><img src="https://storage.gra.cloud.ovh.net/v1/AUTH_bcd845e0b5634d6c8b2535ea00e54c53/ORIGAMIDEVELOPER/postman_first_request.png" alt="postman_login" style="text-align: center"/></a>
  
 
+
 ### PHP script example to setup API connection
+
+Here is an example script on how to make request to Origami API with PHP and Guzzle
 
 ```php
 
