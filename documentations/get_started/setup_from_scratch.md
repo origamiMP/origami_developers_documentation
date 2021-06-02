@@ -78,10 +78,10 @@ $params = [
 ];
 
 $client = new Client();
-$response = $this->client->request('post', '/oauth/token', ['form_params' => $params, 'headers' => $headers]);
+$response = $client->request('post', '/oauth/token', ['form_params' => $params, 'headers' => $headers]);
 $headers['Authorization'] = 'Bearer '.json_decode($response->getBody()->getContents())->access_token;
 
-$response = $this->client->request('get', '/v1/catalog/categories/1', ['headers' => $headers]);
+$response = $client->request('get', '/v1/catalog/categories/1', ['headers' => $headers]);
 ```
 
 You can find endpoints list by clicking <a href="http://doc-api.origami-marketplace.com/">here</a>
