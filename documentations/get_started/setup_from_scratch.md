@@ -43,3 +43,42 @@ If you're making the request as operator, you must set '1' for this parameters.
 
 <a href="https://storage.gra.cloud.ovh.net/v1/AUTH_bcd845e0b5634d6c8b2535ea00e54c53/ORIGAMIDEVELOPER/postman_first_request.png" target="_blank"><img src="https://storage.gra.cloud.ovh.net/v1/AUTH_bcd845e0b5634d6c8b2535ea00e54c53/ORIGAMIDEVELOPER/postman_first_request.png" alt="postman_login" style="text-align: center"/></a>
  
+
+### PHP script example to setup API connection
+
+```php
+
+<?php
+
+use GuzzleHttp\Client;
+
+$access_token = '';
+$base_url = '';
+$client_id = 2;
+$client_secret = 'secret';
+$user_email = 'email';
+$user_password = 'password';
+$context = 1;
+
+$headers = [
+    'Accept' => 'application/json',
+    'Content-Type' => 'application/json',
+    'context' => $context
+];
+
+$params = [
+    'client_id' => 2,
+    'client_secret' => $client_id,
+    'grant_type' => 'password',
+    'username' => $user_email,
+    'password' => $user_password
+];
+
+$client = new Client();
+$response = $this->client->request('post', '/oauth/token', ['form_params' => $params, 'headers' => $headers]);
+$headers['Authorization'] = 'Bearer '.json_decode($response->getBody()->getContents())->access_token;
+
+$response = $this->client->request('get', '/v1/catalog/categories/1', ['headers' => $headers]);
+```
+
+You can fin endpoint list by clicking <a href="http://doc-api.origami-marketplace.com/">here</a>
