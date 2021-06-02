@@ -14,7 +14,7 @@
 
 - Connect to Back-Office as operator
 
-<img src="https://raw.githubusercontent.com/origamiMP/origami_developers_documentation/f87cecff1a5a5697bfc2e5a95c50725a9f5c0bd3/images/connect_bo.png"/>
+<img src="https://doc-0o-bo-docs.googleusercontent.com/docs/securesc/6jnbro94s7noll3vpqertlma00vh45r4/he5g9u43aev429q4rfhpn8baq6a4u5cd/1622624325000/12634198710660383448/06683968715744602170Z/13VCaL3Hh2CEIIuKff-LfRZNFCeBuqgzt?e=view&nonce=r3vm7ii06nkag&user=06683968715744602170Z&hash=4c89247k7suh1s590jebpeg09j8128n2"/>
 
 - [Script to connect to Origami Marketplace]
 
