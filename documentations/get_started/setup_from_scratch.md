@@ -81,4 +81,4 @@ $headers['Authorization'] = 'Bearer '.json_decode($response->getBody()->getConte
 $response = $this->client->request('get', '/v1/catalog/categories/1', ['headers' => $headers]);
 ```
 
-You can fin endpoint list by clicking <a href="http://doc-api.origami-marketplace.com/">here</a>
+You can find endpoints list by clicking <a href="http://doc-api.origami-marketplace.com/">here</a>
