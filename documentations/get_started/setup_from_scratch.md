@@ -4,7 +4,7 @@
 - API client secret
 - API client id
   
-### Create API user
+### Create API user through Back-Office
 
 1. Connect to Back-Office as operator
 
@@ -28,7 +28,7 @@
 
 
 
-### Test your api User via Postman
+### Test your API user through Postman
 
 You could test your api user through Postman by clicking <a href="https://documenter.getpostman.com/view/1769019/TVYDfffr#5009ca65-5c00-486d-8e76-6f44bd9e6af5">here</a>
 
