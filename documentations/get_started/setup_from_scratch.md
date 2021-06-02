@@ -39,7 +39,7 @@ You could test your api user through Postman by clicking <a href="https://docume
 
 The access token must be provided in each request that need authentication. It must be passed as Authorization header.
 A user can belongs to several user groups (operator / seller / customer), so you also must provide the context header that is the user group id who execute the request.
-If you're making the request as operator, you must set '1' for this parameters.
+If you're making the request as operator, you must set '1' for this parameter.
 
 <a href="https://storage.gra.cloud.ovh.net/v1/AUTH_bcd845e0b5634d6c8b2535ea00e54c53/ORIGAMIDEVELOPER/postman_first_request.png" target="_blank"><img src="https://storage.gra.cloud.ovh.net/v1/AUTH_bcd845e0b5634d6c8b2535ea00e54c53/ORIGAMIDEVELOPER/postman_first_request.png" alt="postman_login" style="text-align: center"/></a>
  
