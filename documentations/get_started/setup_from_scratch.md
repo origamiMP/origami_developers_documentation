@@ -8,7 +8,9 @@
 
 1. Connect to Back-Office as operator
 
+<a href="#">
 <img src="https://storage.gra.cloud.ovh.net/v1/AUTH_bcd845e0b5634d6c8b2535ea00e54c53/ORIGAMIDEVELOPER/connect_bo.png" alt="connect-bo" />
+</a>
 
 2. Go to user menu
 
